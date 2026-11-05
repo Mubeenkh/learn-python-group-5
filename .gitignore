@@ -1,0 +1,12 @@
+.idea/
+.pytest_cache
+venv/
+.venv/
+**/*.pyc
+env
+__pycache__
+.vscode
+/learn-python/
+/README.pt-BR.md
+/README.uk-UA.md
+/README.zh-TW.md
